@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>شركة بيو سيزار</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      background-color: #f3f3f3;
+      margin: 0;
+      padding: 0;
+      direction: rtl;
+    }
+    header {
+      background-color: #2e8b57;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    .content {
+      padding: 30px;
+      text-align: center;
+    }
+    .features {
+      margin-top: 20px;
+    }
+    .features li {
+      list-style: none;
+      margin: 10px 0;
+      font-weight: bold;
+    }
+    .contact {
+      margin-top: 30px;
+      font-size: 1.1em;
+    }
+    img {
+      width: 300px;
+      margin-top: 20px;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.2);
+    }
+    footer {
+      background-color: #2e8b57;
+      color: white;
+      text-align: center;
+      padding: 10px;
+      position: fixed;
+      width: 100%;
+      bottom: 0;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>شركة بيو سيزار</h1>
+    <p>مواد تنظيف عالية الجودة</p>
+  </header>
+
+  <div class="content">
+    <h2>مرحبا بكم!</h2>
+    <p>نحن شركة بيو سيزار، متخصصون في بيع مواد التنظيف بالجملة.</p>
+    <p>العنوان: سيدي ريحان – البسباس – ولاية الطارف</p>
+
+    <ul class="features">
+      <li>✅ جودة عالية</li>
+      <li>✅ أسعار مناسبة</li>
+      <li>✅ توصيل سريع</li>
+    </ul>
+
+    <img src="https://i.imgur.com/qBKmZ3H.jpg" alt="جافيل نصيرة كلين">
+
+    <div class="contact">
+      📞 للتواصل: 0660 79 59 08
+    </div>
+  </div>
+
+  <footer>
+    &copy; 2025 شركة بيو سيزار
+  </footer>
+</body>
+</html>
